@@ -131,3 +131,4 @@ D:\ASP.NET\phamdinhthuan_2122110175\phamdinhthuan_2122110175\obj\Debug\net8.0\re
 D:\ASP.NET\phamdinhthuan_2122110175\phamdinhthuan_2122110175\obj\Debug\net8.0\phamdinhthuan_2122110175.pdb
 D:\ASP.NET\phamdinhthuan_2122110175\phamdinhthuan_2122110175\obj\Debug\net8.0\phamdinhthuan_2122110175.genruntimeconfig.cache
 D:\ASP.NET\phamdinhthuan_2122110175\phamdinhthuan_2122110175\obj\Debug\net8.0\ref\phamdinhthuan_2122110175.dll
+D:\ASP.NET\phamdinhthuan_2122110175\phamdinhthuan_2122110175\obj\Debug\net8.0\phamdinhthuan_2122110175.sourcelink.json
