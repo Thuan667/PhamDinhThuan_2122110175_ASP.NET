@@ -132,3 +132,7 @@ D:\ASP.NET\phamdinhthuan_2122110175\phamdinhthuan_2122110175\obj\Debug\net8.0\ph
 D:\ASP.NET\phamdinhthuan_2122110175\phamdinhthuan_2122110175\obj\Debug\net8.0\phamdinhthuan_2122110175.genruntimeconfig.cache
 D:\ASP.NET\phamdinhthuan_2122110175\phamdinhthuan_2122110175\obj\Debug\net8.0\ref\phamdinhthuan_2122110175.dll
 D:\ASP.NET\phamdinhthuan_2122110175\phamdinhthuan_2122110175\obj\Debug\net8.0\phamdinhthuan_2122110175.sourcelink.json
+D:\ASP.NET\phamdinhthuan_2122110175\phamdinhthuan_2122110175\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ASP.NET\phamdinhthuan_2122110175\phamdinhthuan_2122110175\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ASP.NET\phamdinhthuan_2122110175\phamdinhthuan_2122110175\bin\Debug\net8.0\AutoMapper.dll
+D:\ASP.NET\phamdinhthuan_2122110175\phamdinhthuan_2122110175\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
